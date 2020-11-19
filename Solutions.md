@@ -177,6 +177,6 @@
 killall -9 java
 
 ./build/nodes/runnodes
-flow start bootcamp.TokenIssueFlowInitiator owner: PartyB, amount: 50
+flow start bootcamp.TokenIssueFlowInitiator owner: PartyB, amount: 500
 ```
 
